@@ -1,5 +1,5 @@
 $(start);
-
+ 
 function start(){
     $("#Add").on("click", btnClicked);
 }
