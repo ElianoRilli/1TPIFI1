@@ -5,7 +5,7 @@ function start() {
 }
 
 function createList() {
-    let fruits = ["Apple", "Banana", "Grape", "Orange"];
+    let fruits = ["Apple", "Banana", "Grape", "Orange", "Pear"];
 
     let fruitSelect = $("<select>");
     
