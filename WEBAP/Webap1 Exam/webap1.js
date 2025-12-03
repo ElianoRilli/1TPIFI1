@@ -44,12 +44,3 @@ function creategrid() {
     $("body").append("<br><button id='restart'>Restart</button>");
     $("#restart").on("click", start);
 }
-
-
-/*$(".cell").on("click", function () {
-    alert("nope");
-
-    if () {
-        alert("yes");
-    }
-});*/
